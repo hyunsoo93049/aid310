@@ -32,3 +32,7 @@ Ensure you have the following installed:
    pip install pandas scikit-learn
    ```
 4. Ensure the `iris.csv` dataset is available in the project directory.
+
+## Autor
+Developed by Kimhyunsoo
+
